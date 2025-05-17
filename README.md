@@ -67,4 +67,7 @@ pip install opencv-python numpy matplotlib scipy
 
 ```bash
 /GoruntuIslemeUygulamasi.exe
-
+```
+<img src="https://github.com/mustafaatakli/Goruntu-Isleme-Uygulamasi/blob/main/image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114212.png" width="auto">
+<img src="https://github.com/mustafaatakli/Goruntu-Isleme-Uygulamasi/blob/main/image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114247.png" width="auto">
+<img src="https://github.com/mustafaatakli/Goruntu-Isleme-Uygulamasi/blob/main/image/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-05-17%20114338.png" width="auto">
